@@ -1,2 +1,1 @@
-# 3311456_203311030
-Alper Yüceer Mobil Programlama Dersi Ara Sınav Ödevi
+Play Store: https://play.google.com/store/apps/details?id=com.alperyuceer.komik_replikler
